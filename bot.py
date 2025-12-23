@@ -5,7 +5,7 @@ from telegram import InlineKeyboardButton, InlineKeyboardMarkup, Update
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, ContextTypes
 
 # --- CONFIGURATION (Edit These) ---
-BOT_TOKEN = "APNA_BOT_TOKEN_YAHAN_DALO" 
+BOT_TOKEN = "8481908531:AAE0aHzORrGuX02wwoAkQqeG7M63OBcfBeE" 
 ADMIN_ID = 123456789 
 CHANNEL_LINK = "https://t.me/YourChannel" # Aapka Channel Link
 SHORTLINK_URL = "https://gplinks.in/api?api=YOUR_API&url=https://google.com" # Example
