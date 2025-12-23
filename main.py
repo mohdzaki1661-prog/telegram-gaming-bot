@@ -3,7 +3,7 @@ from telebot import types
 import database
 import games
 
-TOKEN = 'YOUR_BOT_TOKEN_HERE' # Apna token dalein
+TOKEN = '8481908531:AAE0aHzORrGuX02wwoAkQqeG7M63OBcfBeE'
 bot = telebot.TeleBot(TOKEN)
 
 database.init_db()
