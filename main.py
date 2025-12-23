@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 import database  # Aapki database.py file
 
-TOKEN = 'YAHAN_APNA_BOT_TOKEN_DAALEIN'
+TOKEN = '8481908531:AAE0aHzORrGuX02wwoAkQqeG7M63OBcfBeE'
 bot = telebot.TeleBot(TOKEN)
 
 # Bot start hote hi database setup karega
